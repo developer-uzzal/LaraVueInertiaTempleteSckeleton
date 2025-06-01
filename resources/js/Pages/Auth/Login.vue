@@ -1,6 +1,6 @@
 <script setup>
 
-import { useForm } from 'vue';
+import { useForm } from '@inertiajs/vue3'
 
 const form = useForm({
     email: '',
